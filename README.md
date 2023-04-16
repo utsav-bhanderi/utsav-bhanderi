@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **utsavbhanderi987@gmail.com**
 
-- ⚡ Fun fact **Roses are Red, Voilets are Blue, Unexpected '{' on line 32.**
+- ⚡ Fun fact **Roses are Red, Violets are Blue, Unexpected '{' on line 32.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
