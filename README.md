@@ -5,7 +5,6 @@
 <img align="right" alt="Coading" width="510" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif">
 <p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=utsav-bhanderi&label=Profile%20views&color=0e75b6&style=flat" alt="utsav-bhanderi" /></p>
-<p align="left"><a href="https://twitter.com/_utsav_bhanderi" target="blank"><img src="https://img.shields.io/twitter/follow/_utsav_bhanderi?logo=twitter&style=for-the-badge" alt="_utsav_bhanderi" /></a></p>
 
 - 💻 I’m currently working on **Mission Implausible**
 
