@@ -6,7 +6,7 @@
 <p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=utsav-bhanderi&label=Profile%20views&color=0e75b6&style=flat" alt="utsav-bhanderi" /></p>
 
-- 💻 I’m currently working on **Mission Implausible**
+- 💻 I’m currently working on **AuctionXpert**
 
 - 🌱 I’m currently learning **Python, Django**
 
